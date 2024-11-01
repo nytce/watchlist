@@ -1,0 +1,18 @@
+私钥：flaskhny
+
+Your identification has been saved in /c/Users/hykj/.ssh/id_ed25519
+Your public key has been saved in /c/Users/hykj/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:oYmgjKyT/84JZY4tMtqUHRP0kv34WKsMYd9EDYkgxqE hykj@DESKTOP-PPJ7III
+The key's randomart image is:
++--[ED25519 256]--+
+| .+.o. ...       |
+| o.o +. .o       |
+|E . + o o .      |
+|+. . + * .       |
+|oo  O + S        |
+|.. X = * .       |
+|* * = o +        |
+|.B + + .         |
+|. oo= o          |
++----[SHA256]-----+
